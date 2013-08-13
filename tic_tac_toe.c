@@ -7,4 +7,8 @@ main()
    {
       printf("Hello, world!");
    }
+   else
+   {
+      printf("Problem Encountered.");
+   }
 }
