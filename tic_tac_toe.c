@@ -11,4 +11,6 @@ main()
    {
       printf("Problem Encountered.");
    }
+
+   printf("This prints anyway.");
 }
